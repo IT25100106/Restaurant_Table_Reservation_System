@@ -110,10 +110,10 @@ The backend API will be available at `http://localhost:8080`
 
 ## Contributors
 
-- @IT25100106
-- @IT25102417
-- @IT25100134
-- @IT26103664
+- @IT25100106 -Ariyawansha B.V.D.N
+- @IT25102417 -Kaushal P.G.C
+- @IT25100134 -jayasinghe S.H.Y.Y
+- @IT26103664 -kolombage K.H.S.S
 
 ## License
 
