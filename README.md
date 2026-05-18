@@ -123,4 +123,4 @@ MIT License - Copyright (c) 2026
 
 [GitHub Repository](https://github.com/IT25100106/Restaurant_Table_Reservation_System)
 
-## WD021
+## Developed by Group WD021 | 1st Year, 2nd Semester | Undergraduate Students at SLIIT
