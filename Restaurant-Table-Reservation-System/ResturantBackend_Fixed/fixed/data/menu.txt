@@ -1,0 +1,10 @@
+1|Garlic Bread|Toasted bread with garlic butter|4.99|Starters||true|2026-05-01T10:53:52.599336
+2|Tomato Soup|Creamy homemade tomato soup|6.99|Starters||true|2026-05-01T10:53:52.599336
+3|Grilled Salmon|Fresh salmon with lemon butter sauce|22.99|Mains||true|2026-05-01T10:53:52.599336
+4|Beef Burger|Classic beef burger with fries|15.99|Mains||true|2026-05-01T10:53:52.599336
+5|Veggie Pasta|Penne with roasted vegetables|13.99|Mains||true|2026-05-01T10:53:52.599336
+6|Caesar Salad|Romaine lettuce, croutons, parmesan|10.99|Sides||true|2026-05-01T10:53:52.599336
+7|Chocolate Cake|Rich chocolate fudge cake|7.99|Desserts||true|2026-05-01T10:53:52.599336
+8|Ice Cream|3 scoops of your choice|5.99|Desserts||true|2026-05-01T10:53:52.599336
+9|Coca Cola|330ml can|2.99|Drinks||true|2026-05-01T10:53:52.599336
+10|Orange Juice|Fresh squeezed|3.99|Drinks||true|2026-05-01T10:53:52.599336

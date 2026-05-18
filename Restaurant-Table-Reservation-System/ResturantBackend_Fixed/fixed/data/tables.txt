@@ -1,0 +1,5 @@
+1|1|2|available|Window|regular
+2|2|4|available|Indoor|regular
+3|3|6|available|Patio|regular
+4|4|8|available|Private Room|regular
+5|5|4|available|Bar Area|vip|Premium Service,Wine Selection|150

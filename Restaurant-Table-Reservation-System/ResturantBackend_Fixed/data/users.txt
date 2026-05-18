@@ -1,0 +1,3 @@
+1|admin|admin@restaurant.com|admin123|admin|2026-05-02T11:38:57.483752300
+2|dinuka|user@example.com|user123|customer|2026-05-02T11:44:48.317960500
+3|Isula |isuimk@gmail.com|456456|user|2026-05-16T10:30:06.450428700

@@ -1,0 +1,2 @@
+1|Admin User|admin@restaurant.com|admin123|admin|2026-05-01T10:53:52.599336
+2|John Customer|customer@restaurant.com|pass123|customer|2026-05-01T10:53:52.599336
